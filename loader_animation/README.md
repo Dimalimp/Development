@@ -1,1 +1,1 @@
-https://Dimalimp.github.io/Development/loader_animation/
+https://Dimalimp.github.io/Development/loader_animation
